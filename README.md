@@ -1,5 +1,7 @@
 # Heroes-SpringWebflux-API
 
+### Documentação Postman: https://documenter.getpostman.com/view/14844213/TzCMc7Vj
+
 Executar dynamodb: 
 
  java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
